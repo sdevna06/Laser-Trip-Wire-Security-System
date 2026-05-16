@@ -46,9 +46,6 @@ The Arduino detects the change in light intensity and activates the buzzer alarm
 
 ---
 
-## Demo
-
-## Demo Video
 
 ## Demo Video
 
