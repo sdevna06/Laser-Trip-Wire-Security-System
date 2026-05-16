@@ -49,6 +49,6 @@ The Arduino detects the change in light intensity and activates the buzzer alarm
 
 ## Demo Video
 
-[Click](./Laser%20Trip%20wire%20security%20system.mp4)
+[![Click](Laser%20trip%20wire%20security%20system.jpg)](./Laser%20Trip%20wire%20security%20system.mp4)
 
 ---
